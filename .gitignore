@@ -1,3 +1,5 @@
+# Ignore all .exe files in STL folder
 /STL/*.exe
-.gitignore
+
+# Ignore the .vscode folder in STL
 /STL/.vscode
