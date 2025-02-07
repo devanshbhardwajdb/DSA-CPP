@@ -1,5 +1,7 @@
 # Ignore all .exe files in STL folder
 /STL/*.exe
+*.exe
+/Linked Lists/*.exe
 
 # Ignore the .vscode folder in STL
 /STL/.vscode
